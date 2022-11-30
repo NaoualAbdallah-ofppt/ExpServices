@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/actSceStart"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="Service Start"/>
+    <item
+        android:id="@+id/actSceBind"
+        android:icon="@android:drawable/ic_delete"
+        android:title="Service Bind"/>
+    <item
+        android:id="@+id/actSceIntent"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="Service Intent">
+    </item>
+    <item
+        android:id="@+id/act4"
+        android:title="Quitter">
+    </item>
+
+</menu>
